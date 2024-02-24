@@ -174,8 +174,8 @@ nav ul li a:hover::after{
     background: #ff004f;
     transform: translateY(-10px);
 }
-/* -------portfolio----------- */
-#portfolio{
+/* -------projects----------- */
+#projects{
     padding: 50px 0;
 }
 .work-list{
@@ -326,7 +326,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/phone-background.png);
+        background-image: url(images/phone-background.jpeg);
     }
     .header-text{
         margin-top: 100%;
